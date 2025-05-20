@@ -7,8 +7,8 @@ Creación de una aplicación para realizar intercomparación mediante Bland Altm
 ## Inputs
 
 * Cargar un archivo excel con la estructura siguiente:
-  ** primera fila columna A. Nombre del equipo/método 1
-  ** primera fila Columna B. Nombre del equipo/método 2
+  - primera fila columna A. Nombre del equipo/método 1
+  - primera fila Columna B. Nombre del equipo/método 2
 
 ## Parámetros
 
