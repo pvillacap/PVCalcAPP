@@ -47,7 +47,7 @@ bland_altman_panel <- tabPanel(
 
 # Panel de parÃ¡metros para Passing-Bablok
 passing_bablok_panel <- tabPanel(
-  "Passing_Babblok",
+  "Passing_Bablok",
   h4("Parametros Passing Bablok"),
   numericInput("alphapb", "alpha", min = 0, max = 1, value = 0.05),
   selectInput("slope_measurepb", "Slope Meassure", c("radian", "tangent")),
