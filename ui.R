@@ -48,17 +48,17 @@ bland_altman_panel <- tabPanel(
 # Panel de parÃ¡metros para Passing-Bablok
 passing_bablok_panel <- tabPanel(
   "Passing_Babblok",
-  h4("ParÃ¡metros Passing Bablok"),
+  h4("Parametros Passing Bablok"),
   numericInput("alphapb", "alpha", min = 0, max = 1, value = 0.05),
   selectInput("slope_measurepb", "Slope Meassure", c("radian", "tangent")),
   h4("Parámetros criterio de aceptación"),
   numericInput("criterio", "Criterio aceptacion(%)", min = 0, max = 100, value = 10)
 )
 
-# Panel de parÃ¡metros para Deming
+# Panel de parametros para Deming
 deming_panel <- tabPanel(
   "Deming",
-  h4("ParÃ¡metros Deming"),
+  h4("Parametros Deming"),
   numericInput("alphadm", "alpha", min = 0, max = 1, value = 0.05),
   numericInput("errorRatio", "Error Ratio", min = 0, max = 100, value = 1)
 )
