@@ -1,8 +1,10 @@
 # PVCalcAPP
-Aplicacion para estudios de intercambiabilidad laboratorio clinico
+Aplicacion para estudios de intercambiabilidad laboratorio clinico realizada con Shiny.
+Aplicación subida a https://pvillalbac.shinyapps.io/PVCalcApp/
 
 
-Creación de una aplicación para realizar intercomparación mediante Bland Altman y Passing Babblok. Con la posibilidad de generar informes
+
+Creación de una aplicación para realizar intercomparación mediante Bland Altman y Passing Babblok. Con la posibilidad de generar informes.
 
 ## Inputs
 
